@@ -1,0 +1,1 @@
+{"description":"The Long Roast — one line roasting my own AI agent (make.fun bounty u-jolly-fox-32-the-long-roast-5d379544)","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-u-jolly-fox-32-the-long-roast-5d379544","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
